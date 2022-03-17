@@ -1,8 +1,5 @@
 public class HelloWorld {
   public static void main(String[] args) {
-      System.out.println("Hello, Guys...Happy weekend");
-      faslkf
-	      lafasf
-	      lkfnaslf
+      System.out.println("Hello, Guys...Happy Holi");
   }
 }
