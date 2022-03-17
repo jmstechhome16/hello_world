@@ -6,6 +6,9 @@ public class HelloWorld {
          System.out.println("Happly long weekend");
       System.out.println("Happly long weekend");
          System.out.println("Happly long weekend");
+           System.out.println("Happly long weekend");
+      System.out.println("Happly long weekend");
+         System.out.println("Happly long weekend");
   
  
   }
